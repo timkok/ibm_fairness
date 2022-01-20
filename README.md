@@ -2,7 +2,7 @@
 
 ## CS 634 Data Mining, Summer 2020
 ### Prof. Pantelis Monogioudis (Instructor)
-### Michael Lam (Teaching Assistant)
+
 
 ### Project Team
 1.	Tian Liao
